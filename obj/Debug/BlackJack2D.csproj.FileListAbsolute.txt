@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\koko\tools\c#\code\project\BlackJack2D\bin\Debug\BlackJack2D.exe.config
+C:\Users\User\Desktop\koko\tools\c#\code\project\BlackJack2D\bin\Debug\BlackJack2D.exe
+C:\Users\User\Desktop\koko\tools\c#\code\project\BlackJack2D\bin\Debug\BlackJack2D.pdb
+C:\Users\User\Desktop\koko\tools\c#\code\project\BlackJack2D\obj\Debug\BlackJack2D.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\koko\tools\c#\code\project\BlackJack2D\obj\Debug\BlackJack2D.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\koko\tools\c#\code\project\BlackJack2D\obj\Debug\BlackJack2D.exe
+C:\Users\User\Desktop\koko\tools\c#\code\project\BlackJack2D\obj\Debug\BlackJack2D.pdb
